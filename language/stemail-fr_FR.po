@@ -1,0 +1,275 @@
+# Guillaume DE BURE <guillaume.debure@gmail.com>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Email Subscribe Plugin\n"
+"POT-Creation-Date: 2014-04-25 12:21+0530\n"
+"PO-Revision-Date: 2014-07-31 17:08+0530\n"
+"Last-Translator: Sanskruti Technologies <support@sanskrutitech.in>\n"
+"Language-Team: FrenchLanguage: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../st-category-email-subscribe.php:124
+msgid "Please Check.Email Address is Invalid"
+msgstr "Veuillez vérifier. L'adresse email est invalide"
+
+#: ../st-category-email-subscribe.php:146
+msgid "Subscribe to receive posts in email"
+msgstr "Souscrire pour recevoir les articles par email"
+
+#: ../st-category-email-subscribe.php:148
+#: ../st-category-email-subscribe.php:344
+msgid "Name:"
+msgstr "Nom:"
+
+#: ../st-category-email-subscribe.php:149
+#: ../st-category-email-subscribe.php:345
+msgid "Name..."
+msgstr "Nom..."
+
+#: ../st-category-email-subscribe.php:150
+#: ../st-category-email-subscribe.php:346
+msgid "Email:"
+msgstr "Email:"
+
+#: ../st-category-email-subscribe.php:151
+#: ../st-category-email-subscribe.php:347
+msgid "Email Address..."
+msgstr "Adresse Email..."
+
+#: ../st-category-email-subscribe.php:153
+#: ../st-category-email-subscribe.php:349
+msgid "Category:"
+msgstr "Catégorie :"
+
+#: ../st-category-email-subscribe.php:154
+#: ../st-category-email-subscribe.php:350
+msgid "Submit"
+msgstr "Soumettre"
+
+#: ../st-category-email-subscribe.php:156
+#: ../st-category-email-subscribe.php:352
+msgid "Thank you for subscribing to our mailing list"
+msgstr "Merci de vous être abonné à notre mailing list"
+
+#: ../st-category-email-subscribe.php:342
+msgid "Subscribe to receive updates in email"
+msgstr "Souscrire pour recevoir les mises à jour par email"
+
+#: ../st-category-email-subscribe.php:358
+msgid "Prepend:"
+msgstr "Préfixe:"
+
+#: ../st-category-email-subscribe.php:362
+msgid "Show Name Field:"
+msgstr "Afficher le champ Nom :"
+
+#: ../st-category-email-subscribe.php:366
+msgid "Name Field Label:"
+msgstr "Etiquette du champ Nom:"
+
+#: ../st-category-email-subscribe.php:370
+msgid "Name Field Default Value:"
+msgstr "Valeur par défaut du champ Nom :"
+
+#: ../st-category-email-subscribe.php:374
+msgid "Email Field Label:"
+msgstr "Etiquette du champ email :"
+
+#: ../st-category-email-subscribe.php:378
+msgid "Email Field Default Value:"
+msgstr "Valeur par défaut du champ Email :"
+
+#: ../st-category-email-subscribe.php:382
+msgid "Show Category Field:"
+msgstr "Afficher le champ Catégorie :"
+
+#: ../st-category-email-subscribe.php:386
+msgid "Category Field Label:"
+msgstr "Etiquette du champ Catégorie :"
+
+#: ../st-category-email-subscribe.php:390
+msgid "Submit Button Label:"
+msgstr "Etiquette du bouton Soumettre :"
+
+#: ../st-category-email-subscribe.php:394
+msgid "Show JavaScript Thanks:"
+msgstr "Afficher les remerciements JavaScript :"
+
+#: ../st-category-email-subscribe.php:398
+msgid "Thank You Text"
+msgstr "Texte de remerciement"
+
+#: ../st_category_email_subscribe_admin.php:86
+#: ../st_category_email_subscribe_admin.php:310
+msgid "Category Email Subscribe Plugin"
+msgstr "Plugin de souscription email par Catégorie"
+
+#: ../st_category_email_subscribe_admin.php:92
+msgid "Settings"
+msgstr "Paramètres"
+
+#: ../st_category_email_subscribe_admin.php:96
+msgid "Send Email From (Email): "
+msgstr "Envoyer les emails depuis (Email) : "
+
+#: ../st_category_email_subscribe_admin.php:100
+msgid "Send Email From (Name): "
+msgstr "Envoyer les emails depuis (Nom) : "
+
+#: ../st_category_email_subscribe_admin.php:109
+msgid "How to Use"
+msgstr "Utilisation"
+
+#: ../st_category_email_subscribe_admin.php:111
+msgid "1. Enter the Send Email from Email and Name"
+msgstr "1. Entrez l'email et le nom à partir duquel les mails seront envoyés"
+
+#: ../st_category_email_subscribe_admin.php:112
+msgid "All emails will be sent from this name and email"
+msgstr "Tous les emails seront envoyés depuis ce nom et cet email"
+
+#: ../st_category_email_subscribe_admin.php:113
+msgid "2. Add Subscribers"
+msgstr "2. Ajouter des abonnés"
+
+#: ../st_category_email_subscribe_admin.php:114
+msgid "Go to St Category Emai Subscribe > Subscribers to Manage Subscribers"
+msgstr ""
+"Aller à St Souscription Email par Catégorie > Souscripteurs pour gérer les "
+"Souscripteurs"
+
+#: ../st_category_email_subscribe_admin.php:115
+msgid "You can manually add a subscriber"
+msgstr "Vous pouvez ajouter manuellement un abonné"
+
+#: ../st_category_email_subscribe_admin.php:116
+msgid "Or Import an entire list"
+msgstr "Ou importer une liste entière "
+
+#: ../st_category_email_subscribe_admin.php:117
+msgid "The emails will be sent as soon as a "
+msgstr "Les emails seront envoyès dès que"
+
+#: ../st_category_email_subscribe_admin.php:117
+msgid "Post is Published"
+msgstr "L'article est publié"
+
+#: ../st_category_email_subscribe_admin.php:118
+msgid ""
+"The email will be sent only to the subscribers registered for the category "
+"of Post"
+msgstr ""
+"Les emails seront envoyès uniquement aux abonnés à la catégorie de l'article"
+
+#: ../st_category_email_subscribe_admin.php:119
+msgid "3. Add Subscribe Form"
+msgstr "3. Ajouter un formulaire d'abonnement"
+
+#: ../st_category_email_subscribe_admin.php:120
+msgid "Place the subscribe form on your website using "
+msgstr "Placer le formulaire sur votre site en utilisant"
+
+#: ../st_category_email_subscribe_admin.php:120
+msgid "Widget : Category Email Subscribe Form"
+msgstr "Widget : Souscription email par Catégorie"
+
+#: ../st_category_email_subscribe_admin.php:121
+msgid "Or Short code [st_category_subscribe_form]"
+msgstr "Ou bien le code court [st_category_subscribe_form]"
+
+#: ../st_category_email_subscribe_admin.php:133
+msgid "Show your Support"
+msgstr "Afficher votre support"
+
+#: ../st_category_email_subscribe_admin.php:136
+msgid ""
+"Want to help make this plugin even better? All donations are used to improve "
+"this plugin, so donate $20, $50 or $100 now!"
+msgstr ""
+"Vous voulez aider à rendre ce plugin encore meilleur ? Toutes les donations "
+"sont utilisées pour améliorerce plugin, alors donnez $20, $50 ou $100 "
+"maintenant !"
+
+#: ../st_category_email_subscribe_admin.php:138
+msgid "Donate"
+msgstr "Donner"
+
+#: ../st_category_email_subscribe_admin.php:143
+msgid "Connect With Us "
+msgstr "Connectez-vous avec nous"
+
+#: ../st_category_email_subscribe_admin.php:184
+msgid "Input file is not specified"
+msgstr "Le fichier d'entrée n'est pas spécifié"
+
+#: ../st_category_email_subscribe_admin.php:193
+msgid "Source file could not be opened!"
+msgstr "Le fichier source n'a pu être ouvert !"
+
+#: ../st_category_email_subscribe_admin.php:194
+msgid "Error on fopen"
+msgstr "Erreur sur fopen"
+
+#: ../st_category_email_subscribe_admin.php:225
+msgid "Insert into the Database failed for the following Query: "
+msgstr "L'insertion dans la base de donnée a échoué pour la requête suivante:"
+
+#: ../st_category_email_subscribe_admin.php:263
+msgid "File content has been successfully imported into the database!"
+msgstr ""
+"Le contenu du fichier a été correctement importé dans la base de données !"
+
+#: ../st_category_email_subscribe_admin.php:269
+msgid "Error occured while trying to import!"
+msgstr "Une erreur est survenue pendant l'import !"
+
+#: ../st_category_email_subscribe_admin.php:277
+msgid "There was an error uploading the file, please try again!"
+msgstr "Il y a eu une erreur en téléversant le fichier, merci de réessayer !"
+
+#: ../st_category_email_subscribe_admin.php:294
+msgid "Subscriber Added Successfully!"
+msgstr "Souscripteur ajouté avec succès !"
+
+#: ../st_category_email_subscribe_admin.php:305
+msgid "Emails(s) Unsubscribed Successfully!"
+msgstr "Email(s) correctement désabonnés !"
+
+#: ../st_category_email_subscribe_admin.php:316
+msgid "Subscribers"
+msgstr "Souscripteurs"
+
+#: ../st_category_email_subscribe_admin.php:348
+msgid "Import Subscribers"
+msgstr "Importer les souscripteurs"
+
+#: ../st_category_email_subscribe_admin.php:353
+msgid "Choose a CSV file to upload: "
+msgstr "Choisissez un fichier CSV à téléverser : "
+
+#: ../st_category_email_subscribe_admin.php:362
+msgid "Add a Subscriber"
+msgstr "Ajouter un souscripteur"
+
+#: ../st_category_email_subscribe_admin.php:366
+msgid "Name"
+msgstr "Nom"
+
+#: ../st_category_email_subscribe_admin.php:370
+msgid "Email"
+msgstr "Email"
+
+#: ../st_category_email_subscribe_admin.php:374
+msgid "Category"
+msgstr "Catégorie "
+
+#~ msgid "Subscribe"
+#~ msgstr "Subscribe"

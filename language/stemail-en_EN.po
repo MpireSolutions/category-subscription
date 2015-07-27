@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Email Subscribe Plugin\n"
+"POT-Creation-Date: 2014-04-25 12:21+0530\n"
+"PO-Revision-Date: 2014-04-25 12:21+0530\n"
+"Last-Translator: Sanskruti Technologies <info@sanskrutitech.in>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../st-category-email-subscribe.php:124
+msgid "Please Check.Email Address is Invalid"
+msgstr "Please Check.Email Address is Invalid"
+
+#: ../st-category-email-subscribe.php:146
+msgid "Subscribe to receive posts in email"
+msgstr "Subscribe to receive posts in email"
+
+#: ../st-category-email-subscribe.php:148
+#: ../st-category-email-subscribe.php:344
+msgid "Name:"
+msgstr "Name:"
+
+#: ../st-category-email-subscribe.php:149
+#: ../st-category-email-subscribe.php:345
+msgid "Name..."
+msgstr "Name..."
+
+#: ../st-category-email-subscribe.php:150
+#: ../st-category-email-subscribe.php:346
+msgid "Email:"
+msgstr "Email:"
+
+#: ../st-category-email-subscribe.php:151
+#: ../st-category-email-subscribe.php:347
+msgid "Email Address..."
+msgstr "Email Address..."
+
+#: ../st-category-email-subscribe.php:153
+#: ../st-category-email-subscribe.php:349
+msgid "Category:"
+msgstr "Category:"
+
+#: ../st-category-email-subscribe.php:154
+#: ../st-category-email-subscribe.php:350
+msgid "Submit"
+msgstr "Submit"
+
+#: ../st-category-email-subscribe.php:156
+#: ../st-category-email-subscribe.php:352
+msgid "Thank you for subscribing to our mailing list"
+msgstr "Thank you for subscribing to our mailing list"
+
+#: ../st-category-email-subscribe.php:342
+msgid "Subscribe to receive updates in email"
+msgstr "Subscribe to receive updates in email"
+
+#: ../st-category-email-subscribe.php:358
+msgid "Prepend:"
+msgstr "Prepend:"
+
+#: ../st-category-email-subscribe.php:362
+msgid "Show Name Field:"
+msgstr "Show Name Field:"
+
+#: ../st-category-email-subscribe.php:366
+msgid "Name Field Label:"
+msgstr "Name Field Label:"
+
+#: ../st-category-email-subscribe.php:370
+msgid "Name Field Default Value:"
+msgstr "Name Field Default Value:"
+
+#: ../st-category-email-subscribe.php:374
+msgid "Email Field Label:"
+msgstr "Email Field Label:"
+
+#: ../st-category-email-subscribe.php:378
+msgid "Email Field Default Value:"
+msgstr "Email Field Default Value:"
+
+#: ../st-category-email-subscribe.php:382
+msgid "Show Category Field:"
+msgstr "Show Category Field:"
+
+#: ../st-category-email-subscribe.php:386
+msgid "Category Field Label:"
+msgstr "Category Field Label:"
+
+#: ../st-category-email-subscribe.php:390
+msgid "Submit Button Label:"
+msgstr "Submit Button Label:"
+
+#: ../st-category-email-subscribe.php:394
+msgid "Show JavaScript Thanks:"
+msgstr "Show JavaScript Thanks:"
+
+#: ../st-category-email-subscribe.php:398
+msgid "Thank You Text"
+msgstr "Thank You Text"
+
+#: ../st_category_email_subscribe_admin.php:86
+#: ../st_category_email_subscribe_admin.php:310
+msgid "Category Email Subscribe Plugin"
+msgstr "Category Email Subscribe Plugin"
+
+#: ../st_category_email_subscribe_admin.php:92
+msgid "Settings"
+msgstr "Settings"
+
+#: ../st_category_email_subscribe_admin.php:96
+msgid "Send Email From (Email): "
+msgstr "Send Email From (Email): "
+
+#: ../st_category_email_subscribe_admin.php:100
+msgid "Send Email From (Name): "
+msgstr "Send Email From (Name): "
+
+#: ../st_category_email_subscribe_admin.php:109
+msgid "How to Use"
+msgstr "How to Use"
+
+#: ../st_category_email_subscribe_admin.php:111
+msgid "1. Enter the Send Email from Email and Name"
+msgstr "1. Enter the Send Email from Email and Name"
+
+#: ../st_category_email_subscribe_admin.php:112
+msgid "All emails will be sent from this name and email"
+msgstr "All emails will be sent from this name and email"
+
+#: ../st_category_email_subscribe_admin.php:113
+msgid "2. Add Subscribers"
+msgstr "2. Add Subscribers"
+
+#: ../st_category_email_subscribe_admin.php:114
+msgid "Go to St Category Emai Subscribe > Subscribers to Manage Subscribers"
+msgstr "Go to St Category Emai Subscribe > Subscribers to Manage Subscribers"
+
+#: ../st_category_email_subscribe_admin.php:115
+msgid "You can manually add a subscriber"
+msgstr "You can manually add a subscriber"
+
+#: ../st_category_email_subscribe_admin.php:116
+msgid "Or Import an entire list"
+msgstr "Or Import an entire list"
+
+#: ../st_category_email_subscribe_admin.php:117
+msgid "The emails will be sent as soon as a "
+msgstr "The emails will be sent as soon as a "
+
+#: ../st_category_email_subscribe_admin.php:117
+msgid "Post is Published"
+msgstr "Post is Published"
+
+#: ../st_category_email_subscribe_admin.php:118
+msgid ""
+"The email will be sent only to the subscribers registered for the category "
+"of Post"
+msgstr ""
+"The email will be sent only to the subscribers registered for the category "
+"of Post"
+
+#: ../st_category_email_subscribe_admin.php:119
+msgid "3. Add Subscribe Form"
+msgstr "3. Add Subscribe Form"
+
+#: ../st_category_email_subscribe_admin.php:120
+msgid "Place the subscribe form on your website using "
+msgstr "Place the subscribe form on your website using "
+
+#: ../st_category_email_subscribe_admin.php:120
+msgid "Widget : Category Email Subscribe Form"
+msgstr "Widget : Category Email Subscribe Form"
+
+#: ../st_category_email_subscribe_admin.php:121
+msgid "Or Short code [st_category_subscribe_form]"
+msgstr "Or Short code [st_category_subscribe_form]"
+
+#: ../st_category_email_subscribe_admin.php:133
+msgid "Show your Support"
+msgstr "Show your Support"
+
+#: ../st_category_email_subscribe_admin.php:136
+msgid ""
+"Want to help make this plugin even better? All donations are used to improve "
+"this plugin, so donate $20, $50 or $100 now!"
+msgstr ""
+"Want to help make this plugin even better? All donations are used to improve "
+"this plugin, so donate $20, $50 or $100 now!"
+
+#: ../st_category_email_subscribe_admin.php:138
+msgid "Donate"
+msgstr "Donate"
+
+#: ../st_category_email_subscribe_admin.php:143
+msgid "Connect With Us "
+msgstr "Connect With Us "
+
+#: ../st_category_email_subscribe_admin.php:184
+msgid "Input file is not specified"
+msgstr "Input file is not specified"
+
+#: ../st_category_email_subscribe_admin.php:193
+msgid "Source file could not be opened!"
+msgstr "Source file could not be opened!"
+
+#: ../st_category_email_subscribe_admin.php:194
+msgid "Error on fopen"
+msgstr "Error on fopen"
+
+#: ../st_category_email_subscribe_admin.php:225
+msgid "Insert into the Database failed for the following Query: "
+msgstr "Insert into the Database failed for the following Query: "
+
+#: ../st_category_email_subscribe_admin.php:263
+msgid "File content has been successfully imported into the database!"
+msgstr "File content has been successfully imported into the database!"
+
+#: ../st_category_email_subscribe_admin.php:269
+msgid "Error occured while trying to import!"
+msgstr "Error occured while trying to import!"
+
+#: ../st_category_email_subscribe_admin.php:277
+msgid "There was an error uploading the file, please try again!"
+msgstr "There was an error uploading the file, please try again!"
+
+#: ../st_category_email_subscribe_admin.php:294
+msgid "Subscriber Added Successfully!"
+msgstr "Subscriber Added Successfully!"
+
+#: ../st_category_email_subscribe_admin.php:305
+msgid "Emails(s) Unsubscribed Successfully!"
+msgstr "Emails(s) Unsubscribed Successfully!"
+
+#: ../st_category_email_subscribe_admin.php:316
+msgid "Subscribers"
+msgstr "Subscribers"
+
+#: ../st_category_email_subscribe_admin.php:348
+msgid "Import Subscribers"
+msgstr "Import Subscribers"
+
+#: ../st_category_email_subscribe_admin.php:353
+msgid "Choose a CSV file to upload: "
+msgstr "Choose a CSV file to upload: "
+
+#: ../st_category_email_subscribe_admin.php:362
+msgid "Add a Subscriber"
+msgstr "Add a Subscriber"
+
+#: ../st_category_email_subscribe_admin.php:366
+msgid "Name"
+msgstr "Name"
+
+#: ../st_category_email_subscribe_admin.php:370
+msgid "Email"
+msgstr "Email"
+
+#: ../st_category_email_subscribe_admin.php:374
+msgid "Category"
+msgstr "Category"
+
+#~ msgid "Subscribe"
+#~ msgstr "Subscribe"
